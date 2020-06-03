@@ -1,12 +1,12 @@
 # Pipe To
 
-Functional pipe for JavaScript.
+A simple implementation of functional pipe in JavaScript.
 
 ### Installation
 
 ```bash
 $ npm install pipe-to
-# Or
+# or
 $ yarn add pipe-to
 ```
 
