@@ -48,6 +48,6 @@ function asyncSubtract(value) {
   console.log(await asyncSubtract(await asyncDouble(await asyncDouble(4))));
 
   // pipe-to
-  console.log(await pipe(4).asyncTo(double, double, subtract));
+  console.log(await pipe(4).asyncTo(asyncDouble, asyncDouble, asyncSubtract));
 })();
 ```
