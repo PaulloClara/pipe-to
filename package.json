@@ -1,0 +1,25 @@
+{
+  "name": "pipe-to",
+  "version": "1.0.0",
+  "description": "Functional pipe for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulloClara/pipe-to.git"
+  },
+  "keywords": [
+    "async",
+    "promise",
+    "functional",
+    "pipe"
+  ],
+  "author": "PaulloClara <https://github.com/PaulloClara>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PaulloClara/pipe-to/issues"
+  },
+  "homepage": "https://github.com/PaulloClara/pipe-to#readme"
+}
